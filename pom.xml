@@ -137,8 +137,9 @@ THE SOFTWARE.
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.jenkins-ci.plugins.workflow</groupId>
-            <artifactId>workflow-cps-global-lib</artifactId>
+            <groupId>io.jenkins.plugins</groupId>
+            <artifactId>pipeline-groovy-lib</artifactId>
+            <version>591.v3a_7f422b_d058</version> <!-- TODO until in BOM -->
             <scope>test</scope>
         </dependency>
         <dependency>
